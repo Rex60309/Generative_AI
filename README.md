@@ -14,3 +14,7 @@
     - 用GAN生圖
     - 比較GAN模型生圖與Diffusion模型生圖的差別
     - 探討為何現在大多都用Diffusion Models繪圖
+* hw4: LLM Benchmark Prompt
+    - 構思基準測試(Prompt)
+    - 分別測試ChatGPT、Claude、Gork分析並比較回答
+    - 提出我的觀點與中意的回答
