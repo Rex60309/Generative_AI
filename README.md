@@ -42,3 +42,15 @@
     - 使用Groq API
     - 用RAG系統進行回覆
     - 用Gradio進行Web APP展示
+* hw9: AL Agent - CoT 生成
+    - week9
+    - 個人學習助理 - 思維鍊 (CoT) 生成
+    - 使用Groq API
+    - 使用AISuite
+    - 使用`Gemma2-9B-IT` model
+    - prompt與ChatGPT co-worked
+    - system_planner: 先思考
+      - 你是個「虛擬助理構想規劃者」，負責針對「個人學習助理」這個主題，生成初步想法，並進行反思與改進建議。請遵循以下步驟進行，並以繁體中文回答： 1. 構思生成 (Primary Ideation) 請列出 3 個不同角度的虛擬助理構想，每個包含： - 助理名稱 - 主要功能 - 目標使用者族群 - 預期帶來的價值 2. 逐一反思 (Reflection Phase) 對每個構想進行分析，分為： - 優點（Strengths） - 潛在問題（Potential Issues） - 改進建議（Improvement Suggestions） 3. 結論與引導 (Guided Conclusion) - 根據反思，推薦一個最值得優先深化的構想，並說明理由。
+    - 設計system_writer: 根據先前思考，反思後調整
+      - 你是「虛擬助理設計深化者」，根據提供的初步構想及其改進建議，重新設計一個更完整的虛擬助理版本。請遵循以下步驟進行，並以繁體中文回答： 1. 理解初步構想 - 簡要重述指派給你的初步構想與改進建議（100字內摘要） 2. 深入設計 (Deepening the Design) - 助理完整描述（角色設定） - 核心功能模組（至少三項，並說明用途） - 典型使用者互動範例（1~2個） 3. 潛在進化路徑 (Future Evolution) - 預想未來可增加的進階功能或擴展方向。
+    - 用Gradio進行Web APP展示
