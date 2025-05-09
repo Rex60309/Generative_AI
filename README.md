@@ -66,3 +66,9 @@
       - 白澤: 請以"寶可夢、可愛、日系動畫風格"，給我山海經的神獸"白澤"，有獅子般的可愛外型、六隻角與八隻眼睛，每隻眼睛都閃爍神秘光芒，頭上漂浮書卷符文，背景是古書圖書館與雲中神殿交錯的幻想空間，風格柔和且富有智慧氣息
       - 夔牛: 請以"寶可夢、可愛、日系動畫風格"，給我山海經的神獸"夔牛"，只有一隻腳，渾身有閃電紋路，發出藍白色光芒，站在雲上呼喚雷電，表情勇敢卻可愛，耳朵像雷雲形狀，背景為日系風格的天空之城與雷霆浮島
       - 應龍: 請以"寶可夢、可愛、日系動畫風格"，給我山海經的神獸"應龍"，有金黃色鱗片、閃閃發光的翅膀和藍色的寶石眼睛，盤旋在天空中召喚風雨，尾巴拖著彩虹狀的雲氣，背景為夢幻的天空與神聖的瀑布山谷，整體充滿神聖與可愛感
+* hw11: Stable Diffusion WebUI
+    - week11
+    - 使用 runwayml/stable-diffusion-v1-5
+    - 有調整 default_enhance & default_negative
+    - 推薦 prompt1: a futuristic cyberpunk city at night, glowing neon lights, wet streets, people walking with umbrellas
+    - 推薦 prompt2: a golden retriever puppy lying on a wooden floor, sunbeam through the window, cozy atmosphere
