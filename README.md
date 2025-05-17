@@ -4,6 +4,7 @@
 * 課程名稱：生成式AI：文字與圖像生成的原理與實務_國立臺灣師範大學衛星課程
 * 修課學期：113-2
 # 作業說明
+有時候github會跑不出來colab檔案，**可以用以下網址**: https://nbviewer.org/github/Rex60309/Generative_AI/tree/main/
 * hw1: 繪製函數圖形 - 利薩茹曲線
     - week1
     - 最後的動畫繪圖需要在Colab逐步執行才能看見並使用
