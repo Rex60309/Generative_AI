@@ -72,3 +72,12 @@
     - 有調整 default_enhance & default_negative
     - 推薦 prompt1: a futuristic cyberpunk city at night, glowing neon lights, wet streets, people walking with umbrellas
     - 推薦 prompt2: a golden retriever puppy lying on a wooden floor, sunbeam through the window, cozy atmosphere
+* hw12: Fooocus 文字生圖
+    - week12
+    - 使用Fooocus進行文字生圖
+    - 主題: **黑暗、神秘的刺客遊戲角色設計**
+    - 共創作三組圖像
+      1. 東洋刺客形象
+      2. 用毒的女刺客形象
+      3. 冷血追蹤者形象
+    - 詳細的prompt與嘗試在colab有說明
